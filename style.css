@@ -316,6 +316,11 @@ header nav li {
 	}
 }
 
+#contact-email{
+	font-size: 18px;
+	color: #555;
+}
+
 /*Footer Section*/
 
 footer {
